@@ -23,3 +23,34 @@ This application requires **Python 3.10 or 3.11** (Python 3.13 is not supported 
    git clone https://github.com/LameUser/OCR_TOOL.git
    cd OCR_TOOL
    ```
+2. Create a Virtual Environment (Optional but Recommended):
+   `python -m venv .venv`
+
+3. Activate the Virtual Environment:
+   - Windows (PowerShell):
+      `.venv\Scripts\Activate`
+   - Mac/Linux:
+     `source .venv/bin/activate`
+
+4. Install Dependencies:
+   `pip install -r requirements.txt`
+
+## 🔥 **How to Use**
+
+1. Run the script:
+   `python ocrtool.py`
+
+2. Select a PDF file that contains tables.
+
+3. Choose where to save the Excel file.
+
+4. Click "Convert to Excel" and wait for success confirmation.
+
+5. Open the generated Excel file 📊
+
+## 🤝 **Contributing**
+**Feel free to fork the repository and submit a pull request!** 🚀
+
+## 📝 **License**
+This project is licensed under the MIT License.
+      
