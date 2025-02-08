@@ -33,7 +33,7 @@ This application requires **Python 3.10 or 3.11** (Python 3.13 is not supported 
      `source .venv/bin/activate`
 
 4. Install Dependencies:
-   `pip install -r requirements.txt`
+   `pip install camelot-py[cv] pandas openpyxl tkinter`
 
 ## 🔥 **How to Use**
 
