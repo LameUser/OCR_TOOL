@@ -1,5 +1,5 @@
-# <img src="https://github.com/user-attachments/assets/bd2c94d1-ea62-4837-bf08-be0e873c8b8f" align="center" alt="OCRTOOL" width="70" height="70"> OCR_TOOL 
-## Convert PDF to Excel Locally
+# <img src="https://github.com/user-attachments/assets/bd2c94d1-ea62-4837-bf08-be0e873c8b8f" align="center" alt="OCRTOOL" width="70" height="70"> OCR TOOL 
+## **Convert PDF to Excel Locally**
 
 ## 📜 Description
 This is a **Python GUI application** that extracts tables from **PDF files** and converts them into **Excel spreadsheets** using **Camelot** and **Tkinter**.
