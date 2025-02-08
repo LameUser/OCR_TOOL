@@ -1,4 +1,4 @@
-# OCR_TOOL <img src="https://github.com/user-attachments/assets/bd2c94d1-ea62-4837-bf08-be0e873c8b8f" alt="OCRTOOL" width="60" height="60">
+# OCR_TOOL <img src="https://github.com/user-attachments/assets/bd2c94d1-ea62-4837-bf08-be0e873c8b8f" alt="OCRTOOL" width="70" height="70">
 
 
 
