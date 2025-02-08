@@ -1,5 +1,4 @@
-# OCR_TOOL
-![logo_final](https://github.com/user-attachments/assets/5ec88dfb-1c85-4d4b-a289-705d90b7023d)
+# OCR_TOOL ![logo_final](https://github.com/user-attachments/assets/5ec88dfb-1c85-4d4b-a289-705d90b7023d)
 
 
 ## Convert PDF to Excel Locally
